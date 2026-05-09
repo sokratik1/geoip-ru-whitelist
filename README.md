@@ -10,7 +10,7 @@
 Добавьте прямую ссылку на raw-файл в настройки:
 
 ```
-https://raw.githubusercontent.com/ВАШ_ЛОГИН/geoip-ru-whitelist/main/ru-whitelist.txt
+https://raw.githubusercontent.com/sokratik1/geoip-ru-whitelist/main/ru-whitelist.txt
 ```
 
 ## Формат файла
